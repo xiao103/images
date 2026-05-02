@@ -1,0 +1,51 @@
+{
+  "picBed": {
+    "current": "smms",
+    "uploader": "smms",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "_configName": "Default",
+      "_id": "d375567f-eb42-4f3e-9af9-0b2b92a6d21d",
+      "_createdAt": 1777718889014,
+      "_updatedAt": 1777718889014
+    }
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Alt+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "language": "zh-CN",
+    "showUpdateTip": true,
+    "autoStart": false
+  },
+  "needReload": false,
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "d375567f-eb42-4f3e-9af9-0b2b92a6d21d",
+          "_createdAt": 1777718889014,
+          "_updatedAt": 1777718889014
+        }
+      ],
+      "defaultId": "d375567f-eb42-4f3e-9af9-0b2b92a6d21d"
+    }
+  }
+}
